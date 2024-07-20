@@ -1,0 +1,6 @@
+--atlas -f rgba8888 -z auto
+
+gfx/jet.png
+gfx/player_bullet.png
+gfx/enemy_bullet.png
+gfx/enemy.png
